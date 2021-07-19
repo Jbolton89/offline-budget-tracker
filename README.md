@@ -26,7 +26,7 @@
   - runs locally on `http://localhost:3000`
 
   ## Usage
-  via [Heroku](), or you can run it locally by setting up a mongodb locally.
+  via [Heroku](https://budget-tracker1000.herokuapp.com/), or you can run it locally by setting up a mongodb locally.
 
   ## Technologies used
   Node.js, Express, MongoDB, mongoose, NOSQL, JS.
