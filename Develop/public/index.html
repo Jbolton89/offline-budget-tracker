@@ -46,7 +46,9 @@
   <script src="index.js"></script>
   <script src='db.js'></script>
   <script> 
+  // if serviceworker is in our web API (navigator is part of window global object)
     if ("serviceWorker" in navigator) { 
+      // when window loads register navigator.service worker to register serviceworker script file as service worker
       window.addEventListener("load", () => { 
         navigator.serviceWorker.register("service-worker.js").then((reg => { 
           console.log("We found your sercvice-worker", reg); 
