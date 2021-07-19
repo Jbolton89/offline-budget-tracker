@@ -35,8 +35,7 @@
 [Email: jasonbolton89@gmail.com](mailto:wjasonbolton89@gmail.com)
 
   ## Screenshots
-  ![screenshot of portfolio](./public/img/screenshot1.png)
-  ![screenshot of portfolio](./public/img/screenshot2.png)
+  ![screenshot](/images/screenshot1.PNG)
 
 ## App
 [The deployed app on Heroku](https://murmuring-chamber-39709.herokuapp.com/)
